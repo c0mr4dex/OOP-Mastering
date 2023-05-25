@@ -1,6 +1,8 @@
 #ifndef _MYSTRING_H_
 #define _MYSTRING_H_
 
+#include <fstream>
+
 class Mystring
 {
     friend std::ostream &operator<<(std::ostream &os, const Mystring &rhs);
