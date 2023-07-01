@@ -32,7 +32,14 @@ Movies::~Movies() {
     *********************************************************************/
 bool Movies::add_movie(std::string name, std::string rating, int watched) {
     // you implement this method
-    return false;
+    for(const Movie &movie : movies){
+        if(movie.get_name() == name){
+            return false;
+        }
+    }
+    Movie temp {name, rating, watched};
+    movies.push_back(temp);
+    return true;
 }
 
  /*************************************************************************
@@ -48,6 +55,12 @@ bool Movies::add_movie(std::string name, std::string rating, int watched) {
     *********************************************************************/
 bool Movies::increment_watched(std::string name) {
    // you implement this method
+   for (Movie &movie: movies) {
+        if (movie.get_name() == name) {
+            movie.increment_watched();
+            return true;
+        }
+    }
    return false;
 }
 
