@@ -6,13 +6,13 @@
 
 using namespace std;
 
-class Player {
+class Player{
     // attributes
-    string name {"Player"};
-    int health {100};
-    int xp {3};
-    
-    // methods
+    string name;
+    int xp;
+    int health;
+
+    //methods
     void talk(string);
     bool is_dead();
 };
