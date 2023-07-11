@@ -12,18 +12,18 @@ This repository serves as a record of my progress and activities throughout the 
 
 The course covers the following topics:
 
-- [01 - Variables and Constants](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_01%20Variables%20and%20Constants)
-- [02 - Arrays and Vectors](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_02%20Arrays%20and%20Vectors)
-- [03-Statement and Operator](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_03%20Statement%20and%20Operator)
-- [04-Controlling Program Flow](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_04%20Controlling%20Program%20Flow)
-- [05-Character and String](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_05%20Character%20and%20String)
-- [06-Functions](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_06%20Functions)
-- [07-Pointers and References](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_07%20Pointers%20and%20References)
-- [08-OOP-Class and Object](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_08%20OOP-Class%20and%20Object)
-- [09-Operator Overloading](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_09%20Operator%20Overloading)
-- [10-Inheritance](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_10%20Inheritance)
-- [11-Polymorphism](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_11%20Polymorphism)
-- [12-Smart Pointer](https://github.com/c0mr4dex/OOP-Mastering/tree/main/Section_12%20Smart%20Pointer)
+- [01 - Variables and Constants](./01-Variables%20and%20Constants/)
+- [02 - Arrays and Vectors](./02-Arrays%20and%20Vectors/)
+- [03-Statement and Operator](./03-Statement%20and%20Operator/)
+- [04-Controlling Program Flow](./04-Controlling%20Program%20Flow/)
+- [05-Character and String](./05-Character%20and%20String/)
+- [06-Functions](./06-Functions/)
+- [07-Pointers and References](./07-Pointers%20and%20References/)
+- [08-OOP-Class and Object](./08-OOP-Class%20and%20Object/)
+- [09-Operator Overloading](./09-Operator%20Overloading/)
+- [10-Inheritance](./10-Inheritance/)
+- [11-Polymorphism](./11-Polymorphism/)
+- [12-Smart Pointer](./12-Smart%20Pointer/)
 
 ## Usage
 
@@ -31,4 +31,4 @@ As this repository is primarily for personal use and contains course materials, 
 
 ## License
 
-The course materials in this repository are subject to the terms of use specified by Udemy. [Please refer to the Udemy terms and conditions for more information.](https://funix.udemy.com/course/beginning-c-plus-plus-programming/learn/)
+The course materials in this repository are subject to the terms of use specified by Udemy. [Please refer to the Udemy terms and conditions for more information.](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
