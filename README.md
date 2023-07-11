@@ -14,16 +14,16 @@ The course covers the following topics:
 
 - [01 - Variables and Constants](./01-Variables%20and%20Constants/)
 - [02 - Arrays and Vectors](./02-Arrays%20and%20Vectors/)
-- [03-Statement and Operator](./03-Statement%20and%20Operator/)
-- [04-Controlling Program Flow](./04-Controlling%20Program%20Flow/)
-- [05-Character and String](./05-Character%20and%20String/)
-- [06-Functions](./06-Functions/)
-- [07-Pointers and References](./07-Pointers%20and%20References/)
-- [08-OOP-Class and Object](./08-OOP-Class%20and%20Object/)
-- [09-Operator Overloading](./09-Operator%20Overloading/)
-- [10-Inheritance](./10-Inheritance/)
-- [11-Polymorphism](./11-Polymorphism/)
-- [12-Smart Pointer](./12-Smart%20Pointer/)
+- [03 - Statement and Operator](./03-Statement%20and%20Operator/)
+- [04 - Controlling Program Flow](./04-Controlling%20Program%20Flow/)
+- [05 - Character and String](./05-Character%20and%20String/)
+- [06 - Functions](./06-Functions/)
+- [07 - Pointers and References](./07-Pointers%20and%20References/)
+- [08 - OOP-Class and Object](./08-OOP-Class%20and%20Object/)
+- [09 - Operator Overloading](./09-Operator%20Overloading/)
+- [10 - Inheritance](./10-Inheritance/)
+- [11 - Polymorphism](./11-Polymorphism/)
+- [12 - Smart Pointer](./12-Smart%20Pointer/)
 
 ## Usage
 
